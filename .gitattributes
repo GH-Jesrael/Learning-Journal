@@ -1,4 +1,37 @@
-*.sln text 
-*.csproj text 
-*.dll binary 
-*.exe binary 
+# Handle line endings
+* text=auto
+
+# Mark text files
+*.txt text
+# Example: docs/guide.txt
+
+# Mark Markdown files
+*.md text
+# Example: docs/README.md
+
+# Mark binary files
+*.png binary
+# Example: assets/logo.png
+*.jpg binary
+# Example: assets/photo.jpg
+
+# Custom settings for scripts
+*.sh text eol=lf
+# Example: scripts/deploy.sh
+
+# Visual Studio project files
+*.sln text
+# Example: project/solution.sln
+*.csproj text
+# Example: project/app.csproj
+
+# Mark binary executables
+*.dll binary
+# Example: bin/library.dll
+*.exe binary
+# Example: bin/app.exe
+
+# Log files
+log/*.log text eol=lf
+# Example: logs/app.log
+# Example: logs/error.log
