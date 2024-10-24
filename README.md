@@ -29,7 +29,7 @@ In this section, you’ll find logs of my learning experiences, projects I’ve 
 
 ## Contact
 Feel free to reach out if you have any questions or suggestions:
-- Email: immanuelnumeer20@gmail.com
+- Email: immanuelnumber20@outlook.com
 
 ## Contributions
 I welcome any suggestions or improvements that can aid my learning journey or enhance this project. Your feedback and contributions are highly valued!
