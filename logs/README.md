@@ -1,5 +1,5 @@
-# Learning Journal-Repository README
-This folder contains a series of journal entries documenting my learning journey 
+# Logs Folder Overview README
+This folder contains log files documenting my learning progress. These logs serve as a record of my journey, capturing key insights, educational progress, and reflections along the way.
 
 ## Contents
 - **Journal Entries**: Logs of learning activities, topics covered, insights gained, and personal reflections.
