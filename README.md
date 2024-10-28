@@ -58,10 +58,10 @@ Although I’m not yet a seasoned programmer, I’m committed to learning and gr
 
 ## Connect With Me
 
-[GitHub](https://github.com/GH-Jesrael)
+[GitHub](https://github.com/Jesrael-hub)
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GH-Jesrael&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesrael-hub&show_icons=true&theme=radical)
 
 <!---GH-Jesrael/GH-Jesrael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.--->
