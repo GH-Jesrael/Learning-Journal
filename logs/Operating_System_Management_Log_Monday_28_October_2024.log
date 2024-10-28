@@ -1,0 +1,36 @@
+Entry Log: Monday, 28 October 2024
+Topic:  Creating a Bootable ISO Windows Installer from Media Creation Tool
+
+What I Learned:
+- Used Media Creation Tool to create a bootable ISO file.
+
+Thoughts:
+- Having a bootable ISO simplifies the installation process.
+- The instructions on setting up the bootable ISO to boot the computer.
+
+Instructions:
+1. **Download and Install Media Creation Tool:**
+   - Get the Media Creation Tool from Microsoft's official website. The Media Creation Tool allows you to download the latest Windows installation files and create bootable media, such as a USB flash drive or an ISO file, to perform a clean installation or upgrade.
+   - Run the installer and follow the prompts.
+   - If the Media Creation Tool is unable to run, download the ISO directly from Microsoft's [Software Download page](https://www.microsoft.com/software-download/).
+
+2. **Create Bootable ISO:**
+   - Open Media Creation Tool.
+   - Choose "Create installation media for another PC."
+   - Select your preferred language, edition, and architecture (32-bit or 64-bit).
+   - Select "ISO file" and choose where to save it.
+
+3. **Set Up Booting the Computer:**
+   - Insert a USB flash drive or DVD if using physical media.
+   - Copy all files from the mounted ISO to the USB or burn them onto the DVD.
+   - Reboot your computer and enter the BIOS/UEFI settings (usually by pressing F2, F12, Delete, or Esc during startup).
+   - Set the boot order to prioritize the USB/DVD.
+   - Save and exit the BIOS/UEFI settings.
+
+4. **Start Installation:**
+   - Your computer should now boot from the USB/DVD.
+   - Follow the on-screen instructions to complete the installation process.
+
+Reflections:
+- Ensure to back up important data before proceeding.
+- Familiarize yourself with BIOS/UEFI settings for a smoother experience.
