@@ -1,0 +1,17 @@
+Data Entry: Monday, 28 October 2024
+
+Topic: Creating Custom Object with PSCustomObject
+
+What I learned: 
+- How to create a custom object using [PSCustomObject] and a hashtable.
+- How to add properties to the custom object using dot notation.
+- How to modify existing properties of the custom object.
+- How to add methods to the custom object using Add-Member with ScriptMethod.
+- How to remove properties from the custom object using PSObject.Properties.Remove method.
+- PSCustomObject in PowerShell falls under scripting and automation tasking.
+
+Thoughts:
+- Creating custom objects with PSCustomObject provides a flexible and powerful way to manage data in PowerShell.
+- The ability to dynamically add properties and methods makes PSCustomObject extremely versatile for scripting and automation tasks.
+- I found it useful to explore different ways to manipulate custom objects and plan to implement these techniques in future projects.
+
